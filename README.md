@@ -1,6 +1,6 @@
 Howdy!
 
-WElcome to the readme for my pdf resume repo. 
+Welcome to the readme for my pdf resume repo. 
 
 No more.
 
